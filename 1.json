@@ -1,23 +1,5 @@
-{
-  "id": 1,
-  "name": "Leanne Graham",
-  "username": "Bret",
-  "email": "Sincere@april.biz",
-  "address": {
-    "street": "Kulas Light",
-    "suite": "Apt. 556",
-    "city": "Gwenborough",
-    "zipcode": "92998-3874",
-    "geo": {
-      "lat": "-37.3159",
-      "lng": "81.1496"
-    }
-  },
-  "phone": "1-770-736-8031 x56442",
-  "website": "hildegard.org",
-  "company": {
-    "name": "Romaguera-Crona",
-    "catchPhrase": "Multi-layered client-server neural-net",
-    "bs": "harness real-time e-markets"
-  }
+{ 
+	"id" : 1,
+	"title" : "La prudence",
+	"content" : "En vertu de ce principe, toute moins-value simplement probable doit être constatée alors que les plus-values ne le sont qu’une fois réalisées ; La prudence « appréciation raisonnable des événements et des opérations » s’illustre plus facilement qu’elle ne se définit; sa finalité est d’éviter de transférer sur des exercices ultérieurs des risques nés dans l’exercice et susceptibles d’entraîner des pertes futures; la règle de prudence est destinée à protéger les utilisateurs externes des états financiers (et aussi les dirigeants) contre les illusions qui pourraient résulter d’une image non prudente, ou trop flatteuse de l’entreprise."
 }
