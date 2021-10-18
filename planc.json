@@ -1,17 +1,13 @@
-{
-   "pcf":[
-        { 
-            "id" : 1,
-            "title" : "La prudence",
-            "content" : "En vertu de ce principe, toute moins-value simplement probable doit être constatée alors que les plus-values ne le sont qu’une fois réalisées ; La prudence « appréciation raisonnable des événements et des opérations » s’illustre plus facilement qu’elle ne se définit; sa finalité est d’éviter de transférer sur des exercices ultérieurs des risques nés dans l’exercice et susceptibles d’entraîner des pertes futures; la règle de prudence est destinée à protéger les utilisateurs externes des états financiers (et aussi les dirigeants) contre les illusions qui pourraient résulter d’une image non prudente, ou trop flatteuse de l’entreprise."
-       },
-       { 
-        "id" : 2,
-        "title" : "La permanence des méthodes ",
-        "content" : "Ce principe de permanence des méthodes (de présentation ou d’évaluation) est indispensable aux comparaisons, dans le temps, des états financiers; la comparabilité des comptes annuels successifs qui est, pour les utilisateurs nécessaire à leurs analyses, repose sur cette performance. En effet, ce principe ne signifie pas que l’on ne puisse jamais changer de méthode; de tels changements sont possibles, mais dans des cas exceptionnels et sous des conditions très strictes"
-   }
-    ],
-   "phoneNumbers": [
-       { "type": "home", "number": "7349282382" }
-   ]
-}
+[
+
+	{ 
+		"id" : 1,
+		"title" : "La prudence",
+		"content" : "En vertu de ce principe, toute moins-value simplement probable doit être constatée alors que les plus-values ne le sont qu’une fois réalisées ; La prudence « appréciation raisonnable des événements et des opérations » s’illustre plus facilement qu’elle ne se définit; sa finalité est d’éviter de transférer sur des exercices ultérieurs des risques nés dans l’exercice et susceptibles d’entraîner des pertes futures; la règle de prudence est destinée à protéger les utilisateurs externes des états financiers (et aussi les dirigeants) contre les illusions qui pourraient résulter d’une image non prudente, ou trop flatteuse de l’entreprise."
+   },
+	{ 
+		"id" : 2,
+		"title" : "La permanence des méthodes ",
+		"content" : "Ce principe de permanence des méthodes (de présentation ou d’évaluation) est indispensable aux comparaisons, dans le temps, des états financiers; la comparabilité des comptes annuels successifs qui est, pour les utilisateurs nécessaire à leurs analyses, repose sur cette performance. En effet, ce principe ne signifie pas que l’on ne puisse jamais changer de méthode; de tels changements sont possibles, mais dans des cas exceptionnels et sous des conditions très strictes"
+	}
+]
